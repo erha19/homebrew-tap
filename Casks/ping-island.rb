@@ -1,6 +1,6 @@
 cask "ping-island" do
-  version "0.11.1"
-  sha256 "47fc5273953bdb44ae11111f41385df614838352d6a14d8027ec9b0f8f8d95ea"
+  version "0.11.2"
+  sha256 "14ca4313de91e87a94626d8abededd27b753746bf1c5bb22fcde4ab568aabb86"
 
   url "https://github.com/erha19/ping-island/releases/download/v#{version}/PingIsland-#{version}.dmg",
       verified: "github.com/erha19/ping-island/"

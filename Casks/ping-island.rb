@@ -1,11 +1,11 @@
 cask "ping-island" do
-  version "0.12.0"
-  sha256 "97ceee82f1ce33461fccef5384159c336feccf0e09585f422515ac31dc4e3dff"
+  version "0.13.0"
+  sha256 "921c895f580ea206aacdc94628afeea35ca4e51e25662e9fb4051457eb9fb514"
 
   url "https://github.com/erha19/ping-island/releases/download/v#{version}/PingIsland-#{version}.dmg",
       verified: "github.com/erha19/ping-island/"
   name "Ping Island"
-  desc "Dynamic Island-style status for coding agent sessions"
+  desc "Menu bar status for coding agent sessions"
   homepage "https://erha19.github.io/ping-island/"
 
   livecheck do
